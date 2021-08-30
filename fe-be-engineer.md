@@ -42,6 +42,10 @@
 
 [aries@boundary.team](mailto:aries@boundary.team)으로 이력서와 Github URL을 보내주시면 됩니다.
 
+## Rocketpunch
+
+[Rocketpunch](https://www.rocketpunch.com/jobs/106280/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90)에서 채용 공고 확인하신 후 지원하실 수 있습니다.
+
 ## Backend Engineer
 
 ### 자격요건
@@ -79,6 +83,10 @@
 #### 이메일
 
 [aries@boundary.team](mailto:aries@boundary.team)으로 이력서와 Github URL을 보내주시면 됩니다.
+
+## Rocketpunch
+
+[Rocketpunch](https://www.rocketpunch.com/jobs/106282/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90)에서 채용 공고 확인하신 후 지원하실 수 있습니다.
 
 ## Benefit
 
