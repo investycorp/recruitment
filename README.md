@@ -1,12 +1,7 @@
 # We're hiring!
 
-## Open positons
+## Open positions
 
 ### Boundary
 
-* [Java Engineer](./java-apex-engineer.md)
-* [Frontend & Backend Engineer](./fe-be-engineer.md)
-
-### Project Neverland
-
-* [Pixel Art Deisnger](http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=197219)
+* [Check on saramin](https://www.saramin.co.kr/zf_user/company-info/view?csn=UERZemZQSERobDdieGh1RUJaQS8zUT09)
